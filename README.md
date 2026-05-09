@@ -2,8 +2,7 @@
 
 Automatic Cut Lite is a free, open source Adobe Premiere Pro extension that automatically detects and removes silences, breaths, and long pauses from your videos.
 
-> **TR:** Automatic Cut Lite, videolarınızdaki sessizlikleri, nefesleri ve uzun boşlukları otomatik olarak tespit edip kesen ücretsiz ve açık kaynaklı bir Adobe Premiere Pro eklentisidir.
-🇹🇷 [Türkçe dökümantasyon için buraya tıklayın (Read in Turkish)](README-tr.md)
+> **TR:** Automatic Cut Lite, videolarınızdaki sessizlikleri, nefesleri ve uzun boşlukları otomatik olarak tespit edip kesen ücretsiz ve açık kaynaklı bir Adobe Premiere Pro eklentisidir. [Türkçe dökümantasyon için buraya tıklayın (Read in Turkish)](README-tr.md)
 
 ---
 
