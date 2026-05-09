@@ -44,7 +44,7 @@ Automatic Cut Lite, videolarınızdaki sessizlikleri, nefesleri ve uzun boşlukl
 
 ### 3. Adım: Eklentiyi Kurun
 
-1. Bu repoyu indirin.
+1. [Bu repoyu indirin.](https://github.com/barbarpalvin/AutomaticCut/releases/tag/v1.0.0)
 2. `Automatic Cut Lite` klasörünü kopyalayın.
 3. Adobe CEP eklentileri klasörüne yapıştırın. İlk yolu deneyin; eğer yoksa veya çalışmazsa ikinciyi kullanın:
 
