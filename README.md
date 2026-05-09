@@ -44,7 +44,7 @@ Automatic Cut Lite is a free, open source Adobe Premiere Pro extension that auto
 
 ### Step 3: Install the Extension
 
-1. Download this repository.
+1. [Download this repository.](https://github.com/barbarpalvin/AutomaticCut/releases/tag/v1.0.0)
 2. Copy the `Automatic Cut Lite` folder.
 3. Paste it into the Adobe CEP extensions folder. Try the first path; if it doesn't exist or work, use the second:
 * `C:\Program Files (x86)\Common Files\Adobe\CEP\extensions\`
